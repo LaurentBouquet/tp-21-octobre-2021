@@ -15,4 +15,4 @@ Ajouter ici du texte
 
 ## image
 
-(/tp-21-octobre-2021/lg.png)
+![](lg.png)
