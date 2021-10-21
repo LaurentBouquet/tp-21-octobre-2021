@@ -1,6 +1,6 @@
 # Titre du projet
 
-Lignes à compléter et à modifier
+Hello Kitty
 
 
 ## Installation
@@ -12,6 +12,7 @@ Lignes à compléter et à modifier
 
 ## Procédures de tests
 
-Ajouter ici du texte
+Hello kitty est la meilleur au monde
 
-
+### Screenshot
+![Image text](hello-kitty.jpg)
