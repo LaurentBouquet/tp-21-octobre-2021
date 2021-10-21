@@ -7,6 +7,8 @@ Lignes à compléter et à modifier
 
 Ajouter ici du texte
 
+![](WEBHTML.png)
+
 
 ## Procédures de tests
 
