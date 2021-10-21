@@ -12,4 +12,4 @@ Ajouter ici du texte
 
 - voici POO !
 
-![](/image.jpg)
+![](image.jpg)
