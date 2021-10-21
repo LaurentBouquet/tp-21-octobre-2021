@@ -5,7 +5,7 @@ Lignes à compléter et à modifier
 
 ## Installation
 
-Ajouter ici du texte
+ ![](homer.jpg) 
 
 ![](WEBHTML.png)
 
