@@ -10,6 +10,6 @@ Ajouter ici du texte
 
 ## Procédures de tests
 
-Ajouter ici du texte
+- Ajouter ici du texte
 
 
