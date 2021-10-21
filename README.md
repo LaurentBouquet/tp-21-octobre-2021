@@ -14,4 +14,6 @@ Lignes à compléter et à modifier
 
 Ajouter ici du texte
 
+## Image
 
+![Salut](https://i.imgur.com/0x8jGTN.jpg)
