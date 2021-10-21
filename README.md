@@ -12,4 +12,6 @@ Ajouter ici du texte
 
 Ajouter ici du texte
 
+## Image
 
+![Salut](https://i.imgur.com/0x8jGTN.jpg)
