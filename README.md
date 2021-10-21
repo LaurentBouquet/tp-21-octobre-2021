@@ -5,11 +5,17 @@ Lignes à compléter et à modifier
 
 ## Installation
 
-Ajouter ici du texte
+ ![](homer.jpg) 
+
+![](WEBHTML.png)
 
 
 # POO (Programmation Orientée Objet)
 
+
 - voici POO !
+
+![alt text](360-3601324_cartoon.jpg)
+
 
 ![](image.jpg)
